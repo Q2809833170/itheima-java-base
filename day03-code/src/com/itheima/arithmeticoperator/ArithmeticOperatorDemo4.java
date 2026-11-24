@@ -1,7 +1,8 @@
-package com.itheima.test;
+package com.itheima.arithmeticoperator;
 
-public class Test02 {
+public class ArithmeticOperatorDemo4 {
     public static void main(String[] args) {
+        //字符串拼接
         System.out.println(3.7+"abc");//"3.7abc"
         System.out.println("abc"+true);//"abctrue"
         System.out.println('中'+"abc"+true);//"中abctrue"
