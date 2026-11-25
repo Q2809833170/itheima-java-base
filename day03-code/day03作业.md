@@ -99,10 +99,16 @@
 System.out.println(2.0*(5/2));
 
 1. 4
+
 2. 4.0
+
 3. 5
+
 4. 5.0
+
 5. 以上答案都不对
+
+   选2
 
 ## 题目5：
 
@@ -111,7 +117,7 @@ System.out.println(2.0*(5/2));
 ```java
 String firstName = "Tomas";
 String familyName = "Zhang";
-打印firstName + familyName 之后是什么结果？
+打印firstName + familyName 之后是什么结果？//"TomasZhang"
 ```
 
 ## 题目6：
